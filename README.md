@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+アプリケーション名　　rain information
 
-Things you may want to cover:
 
-* Ruby version
+アプリケーション概要　linebotによって毎朝午前７時にその日の降水情報が送られる。
+　　　　　　　　　　　明日、明後日といったワードを打つとその降水情報も送られてくる。
+アカウントのid   　　@136azvzg
 
-* System dependencies
+利用方法　　　　　　　lineの友達追加にて上記のidを入力して友達追加をする。
 
-* Configuration
+目指した課題解決　　　天気の情報を知りたい際にサイトにアクセス手間を省きたい。
 
-* Database creation
+機能のGIF　　　　　　https://gyazo.com/8e0c9975dc72d395eacec5aeb7a46584
 
-* Database initialization
 
-* How to run the test suite
+実装予定の機能　　　地域の設定　対応可能なワードの増加
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
